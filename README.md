@@ -43,11 +43,6 @@ The system comprises two main components: **NewsAgency** and **Subscriber**.
 
 - The system should be scalable to handle a growing number of subscribers without compromising performance.
 - Ensure that the implementation follows object-oriented design principles and promotes loose coupling between the news agency and subscribers.
+  
+![ObserverPattern](https://github.com/lloydestrada/ObserverPattern/assets/142376663/486f1c19-3925-4b84-b333-671b82f0254d)
 
-## Solution in GitHub
-
-In your solution on [GitHub](#), please include the following:
-
-- Problem statement (description of the problem. Just copy what is stated here).
-- UML Class Diagram.
-- Uploaded Java codes for the solution.
